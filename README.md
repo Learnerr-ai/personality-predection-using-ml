@@ -21,19 +21,19 @@ This project focuses on predicting whether a person is an **Introvert** or an **
 
 ## 🧠 ML Workflow
 
-1. **Data Loading & Exploration**  
+1. Data Loading & Exploration  
    Load the personality dataset and perform basic exploratory data analysis.
 
-2. **Data Preprocessing**  
+2. Data Preprocessing  
    Clean the data, handle missing values, encode categorical features, and normalize inputs.
 
-3. **Model Training**  
+3. Model Training  
    Train classification models (e.g., Logistic Regression, Random Forest, SVM) to predict personality.
 
-4. **Model Evaluation**  
+4. Model Evaluation  
    Evaluate models using accuracy, precision, recall, F1-score, and confusion matrix.
 
-5. **Prediction**  
+5. Prediction  
    Use the trained model to predict if a new individual is an introvert or extrovert.
 
 ---
@@ -59,7 +59,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn joblib
 
 ## 📊 Dataset
 
-- **Source**: Kaggle - [Extrovert vs. Introvert Behavior Data](https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data)
+Source: Kaggle - [Extrovert vs. Introvert Behavior Data](https://www.kaggle.com/datasets/rakeshkapilavai/extrovert-vs-introvert-behavior-data)
 - **Attributes**: Behavioral traits like social interaction, energy levels, decision-making preferences, etc.
 
 ---
@@ -82,6 +82,6 @@ The model successfully classifies individuals as either introverts or extroverts
 
 For questions or suggestions, feel free to reach out:
 
-**Author**: Rajdeep  
-**Email**: [your-email@example.com]  
-**GitHub**: [github.com/yourusername]
+Author: Aman  
+Email: itzamanhere01@gmail.com  
+GitHub: Learnerr-ai
